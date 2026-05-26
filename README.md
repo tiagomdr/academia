@@ -14,7 +14,7 @@ Layout Responsivo: Experiência otimizada para desktops, tablets e smartphones.
 
 Navegação Intuitiva: Menu mobile funcional e interativo.
 
-# Seções Completas:
+**Seções Completas:**
 
 **Início:** Apresentação de impacto.
 
