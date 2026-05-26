@@ -7,19 +7,12 @@ A academia mais completa da região com equipamentos de última geração, perso
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-- Estrutura semântica e organizada
-
-- Design responsivo, animações modernas e layout fluido
-
-- Interatividade, manipulação de DOM e experiências dinâmicas
-
 # ✨ Funcionalidades
 Layout Responsivo: Experiência otimizada para desktops, tablets e smartphones.
 
 Navegação Intuitiva: Menu mobile funcional e interativo.
 
-Seções Completas:
+# Seções Completas:
 
 **Início:** Apresentação de impacto.
 
@@ -35,7 +28,7 @@ Seções Completas:
 
 **Contato:** Localização e canais de atendimento.
 
-Animações Fluidas: Elementos interativos para uma navegação mais envolvente.
+**Animações Fluidas:** Elementos interativos para uma navegação mais envolvente.
 
 ---
 
