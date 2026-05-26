@@ -10,11 +10,8 @@ A academia mais completa da região com equipamentos de última geração, perso
 ---
 
 # ✨ Funcionalidades
-Layout Responsivo: Experiência otimizada para desktops, tablets e smartphones.
 
-Navegação Intuitiva: Menu mobile funcional e interativo.
-
-**Seções Completas:**
+Layout Responsivo: Experiência otimizada para desktops, tablets e smartphones. Navegação Intuitiva: Menu mobile funcional e interativo.
 
 **Início:** Apresentação de impacto.
 
@@ -29,8 +26,6 @@ Navegação Intuitiva: Menu mobile funcional e interativo.
 **FAQ:** Esclarecimento de dúvidas frequentes.
 
 **Contato:** Localização e canais de atendimento.
-
-**Animações Fluidas:** Elementos interativos para uma navegação mais envolvente.
 
 ---
 
