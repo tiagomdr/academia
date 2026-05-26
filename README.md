@@ -38,4 +38,4 @@ Navegação Intuitiva: Menu mobile funcional e interativo.
 
 -Delopy do Projeto: 
 
-<img src="https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true" alt="Previa do projeto" width="300px">
+<img src="[https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true](https://github.com/tiagomdr/academia/blob/main/img/fitness.png)" alt="Previa do projeto" width="300px">
