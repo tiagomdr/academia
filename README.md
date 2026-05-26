@@ -36,7 +36,7 @@ Navegação Intuitiva: Menu mobile funcional e interativo.
 
 # 📷 Prévia do Projeto
 
--Delopy do Projeto: 
+-Delopy do Projeto: https://tiagomdr.github.io/academia/
 <br>
 <br>
 <img src="https://github.com/tiagomdr/academia/blob/main/img/fitness.png" alt="Previa do projeto" width="500px">
