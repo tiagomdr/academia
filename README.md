@@ -5,9 +5,8 @@ A academia mais completa da região com equipamentos de última geração, perso
 
 ## 🛠 Tecnologias Utilizadas
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 - Estrutura semântica e organizada
 
@@ -22,19 +21,19 @@ Navegação Intuitiva: Menu mobile funcional e interativo.
 
 Seções Completas:
 
-Início: Apresentação de impacto.
+**Início:** Apresentação de impacto.
 
-Sobre: Nossa história e diferenciais.
+**Sobre:** Nossa história e diferenciais.
 
-Modalidades: Detalhes sobre todas as nossas aulas.
+**Modalidades:** Detalhes sobre todas as nossas aulas.
 
-Resultados: Histórias de sucesso e métricas.
+**Resultados:** Histórias de sucesso e métricas.
 
-Depoimentos: Prova social de nossos alunos.
+**Depoimentos:** Prova social de nossos alunos.
 
-FAQ: Esclarecimento de dúvidas frequentes.
+**FAQ:** Esclarecimento de dúvidas frequentes.
 
-Contato: Localização e canais de atendimento.
+**Contato:** Localização e canais de atendimento.
 
 Animações Fluidas: Elementos interativos para uma navegação mais envolvente.
 
@@ -44,4 +43,4 @@ Animações Fluidas: Elementos interativos para uma navegação mais envolvente.
 
 -Delopy do Projeto: 
 
-<img src="https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true" alt="Previa do projeto">
+<img src="https://github.com/tiagomdr/MarioBros/blob/master/img/mario_e_loide.png?raw=true" alt="Previa do projeto" width="300px">
